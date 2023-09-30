@@ -18,7 +18,7 @@ Fiber framework'ü ile oluşturulmuş bu proje, veritabanı işlemleri için Mon
 
 ```bash
    git clone https://github.com/mustafadikyar/gofiber-mongodb-rest-api.git
-   cd projeadi
+   cd gofiber-mongodb-rest-api
    go run main.go
 ```
 Proje bu adımlarla yerel bir sunucuda çalıştırılacaktır.
